@@ -1,0 +1,1 @@
+CREATE INDEX X1 ON T2 ( c1 , c3 ) ;

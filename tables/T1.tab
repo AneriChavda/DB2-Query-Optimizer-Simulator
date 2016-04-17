@@ -1,0 +1,39 @@
+6
+C1 I true
+C2 C1 true
+C3 C10 true
+C4 I true
+C5 I true
+C6 I true
+3
+X1 false 1A 3A 
+X2 false 4A 1A 2A 
+X3 false 3A 
+20
+  1       10   A EMILY               1         90        11 
+  2       100  B EMILY               2         52        12 
+  3       90   C DAVID               3         52        13 
+  4       60   D FELICITY            1         52        14 
+  5       20   A DESMOND             4         90        15 
+  6       0    B DESHPANDE           5         52        16 
+  7       4    A DESHPANDE           6         52        17 
+  8       75   C EMILY               7         52        18 
+  9       61   F DAVID               8         52        19 
+ 10       21   A DESMOND             9         64      	 10 
+ 11       31   A DESMOND            10         64        1 
+ 12       41   B DESMOND            10         64        2 
+ 13       51   C DAVID               9         90        3 
+ 14       17   D DEAN                9         50        4 
+ 15       72   D ESPOSITO            1         52        5
+ 16       42   D DESMOND             8         52        50 
+ 17       11   B DAVID               3         64        14 
+ 18       14   C DAVID               4         52        15 
+ 19       15   A GARY                2         52        16 
+ 20       92   C DAVID               7         90        14 
+STATS TABCARD 20
+STATS COLCARD 0 20 100 0
+STATS COLCARD 1 5 F A
+STATS COLCARD 2 8 GARY DAVID
+STATS COLCARD 3 10 10 1
+STATS COLCARD 4 4 90 50
+STATS COLCARD 5 16 50 1
